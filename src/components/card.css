@@ -1,0 +1,42 @@
+#bodyCard {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+#cardImg {
+    height: 15vw;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+#cardImg:hover {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+#card {
+    border: none;
+}
+
+#info {
+    margin: 0;
+}
+
+#hh1{
+    text-align: center;
+    padding: 5% 0;
+  }
+
+#cardnum{
+    text-align: center;
+}
+
+#cardTitle{
+    text-align: center;
+}
+
+#cardText{
+    text-align: center;
+}
